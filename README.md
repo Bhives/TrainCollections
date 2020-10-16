@@ -1,2 +1,2 @@
-# Java_Collections_Training_Exercise
+# TrainCollections
 My trainig task using CollectionsAPI
