@@ -1,6 +1,6 @@
 package Train.Carriages;
 
-import java.util.*;
+import java.util.Comparator;
 
 public class Carriage {
 

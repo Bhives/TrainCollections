@@ -1,7 +1,8 @@
 import Train.Carriages.*;
 import Train.Train;
 
-import java.util.*;
+import java.util.Collections;
+import java.util.Scanner;
 
 public class Program {
     //Транспорт.
