@@ -48,5 +48,5 @@ public class Carriage {
                 + ", number of passenger seats = " + this.numberOfSeats
                 + ", number of baggage places = " + this.numberOfBaggage
                 + "\n";
-}
+    }
 }
