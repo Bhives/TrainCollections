@@ -2,7 +2,7 @@ package Train.Carriages;
 
 import java.util.Comparator;
 
-public class Carriage {
+public abstract class Carriage {
 
     private int carriageNumber;
     protected int numberOfSeats;

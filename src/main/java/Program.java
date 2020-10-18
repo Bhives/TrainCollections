@@ -86,7 +86,7 @@ public class Program {
                 lesserNumber = scanner.nextInt();
                 System.out.print("Second number: ");
                 biggerNumber = scanner.nextInt();
-                System.out.println("Carriages with number of seats between " + lesserNumber + " and " + biggerNumber + ":");
+                System.out.print("Carriages with number of seats between " + lesserNumber + " and " + biggerNumber + ": ");
                 for (Carriage carriage : train.getCarriages()) {
                     train.carriagesWithGivenRangeOfSeatNumbers(carriage, lesserNumber, biggerNumber);
                 }

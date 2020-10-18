@@ -37,7 +37,7 @@ public class Train {
 
     public void carriagesWithGivenRangeOfSeatNumbers(Carriage carriage, int lesserNumber, int biggerNumber) {
         if (carriage.getNumberOfSeats() > lesserNumber && carriage.getNumberOfSeats() < biggerNumber) {
-            System.out.print(carriage.getCarriageNumber() + " ");
+            System.out.println(carriage.getCarriageNumber() + " ");
         }
     }
 
